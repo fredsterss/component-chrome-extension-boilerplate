@@ -1,0 +1,2 @@
+component-chrome-extension-boilerplate
+======================================
